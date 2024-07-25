@@ -1,2 +1,4 @@
 # LearningMaterials
 一般的な開発の際に使用するツールの使い方や、ハウツーをまとめた資料の倉庫になります。
+
+英語版も誠意製作中で、English repositoryに作成しています。
